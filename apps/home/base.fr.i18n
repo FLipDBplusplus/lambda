@@ -1,4 +1,4 @@
 Apps = "Applications"
-AppsCapital = "lambda v0.4 quartz"
+AppsCapital = "lambda v0.4.1 quartz"
 ForbiddenAppInExamMode1 = "Cette application n'est"
 ForbiddenAppInExamMode2 = "pas autorisée en mode examen."
