@@ -1,0 +1,14 @@
+name: build
+
+on:
+  release:
+    types: [published]
+
+jobs: 
+  Build: 
+      runs-on: ubuntu-latest
+      steps:
+          - run: sudo apt-get install build-essential git imagemagick libx11-dev libxext-dev libfreetype6-dev libpng-dev libjpeg-dev pkg-config gcc-arm-none-eabi binutils-arm-none-eabi python3-lz4
+          - run: pip install lz4
+          - run: make clean
+          - run: make userland.B.bin -j$(nproc)
