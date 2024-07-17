@@ -68,8 +68,10 @@ class KDColor {
   uint16_t m_value;
 };
 
-constexpr KDColor KDColorBlack = KDColor::RGB24(0x000000);
-constexpr KDColor KDColorWhite = KDColor::RGB24(0xFFFFFF);
+//constexpr KDColor KDColorBlack = KDColor::RGB24(0x000000); //og color (black)
+constexpr KDColor KDColorBlack = KDColor::RGB24(0xFFFFFF); //new (white)
+//constexpr KDColor KDColorWhite = KDColor::RGB24(0xFFFFFF); //og color (white)
+constexpr KDColor KDColorWhite = KDColor::RGB24(0x323232); //new (grey)
 constexpr KDColor KDColorRed = KDColor::RGB24(0xFF0000);
 constexpr KDColor KDColorGreen = KDColor::RGB24(0x00FF00);
 constexpr KDColor KDColorBlue = KDColor::RGB24(0x0000FF);

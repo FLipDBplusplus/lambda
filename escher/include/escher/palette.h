@@ -11,20 +11,22 @@ namespace Escher {
 class Palette {
  public:
   //constexpr static KDColor YellowDark = KDColor::RGB24(0xffb734); //og color (yellow)
-  constexpr static KDColor YellowDark = KDColor::RGB24(0xB400FF); //better color 
+  constexpr static KDColor YellowDark = KDColor::RGB24(0xB400FF); //better color (purple)
   constexpr static KDColor YellowLight = KDColor::RGB24(0xffcc7b);
   constexpr static KDColor PurpleBright = KDColor::RGB24(0x656975);
   constexpr static KDColor PurpleDark = KDColor::RGB24(0x414147);
-  constexpr static KDColor GrayWhite = KDColor::RGB24(0xf5f5f5);
+  //constexpr static KDColor GrayWhite = KDColor::RGB24(0xf5f5f5); //og color (white)
+  constexpr static KDColor GrayWhite = KDColor::RGB24(0x8b8b8b); //new (grey)
   constexpr static KDColor GrayBright = KDColor::RGB24(0xececec);
-  constexpr static KDColor GrayMiddle = KDColor::RGB24(0xd9d9d9);
+  constexpr static KDColor GrayMiddle = KDColor::RGB24(0xd9d9d9); 
   constexpr static KDColor GrayDarkMiddle = KDColor::RGB24(0xb8bbc5);
   constexpr static KDColor GrayDark = KDColor::RGB24(0xa7a7a7);
   constexpr static KDColor GrayVeryDark = KDColor::RGB24(0x8c8c8c);
   constexpr static KDColor GrayDarkest = KDColor::RGB24(0x333333);
   constexpr static KDColor Select = KDColor::RGB24(0xd4d7e0);
   constexpr static KDColor SelectDark = KDColor::RGB24(0xb0b8d8);
-  constexpr static KDColor WallScreen = KDColor::RGB24(0xf7f9fa);
+  //constexpr static KDColor WallScreen = KDColor::RGB24(0xf7f9fa); //og color (white)
+  constexpr static KDColor WallScreen = KDColor::RGB24(0x6f6f6f); //new (grey)
   constexpr static KDColor WallScreenDark = KDColor::RGB24(0xe0e6ed);
   constexpr static KDColor PopUpTitleBackground = KDColor::RGB24(0x696475);
   constexpr static KDColor LowBattery = KDColor::RGB24(0xf30211);
