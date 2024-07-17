@@ -10,7 +10,8 @@ namespace Escher {
 
 class Palette {
  public:
-  constexpr static KDColor YellowDark = KDColor::RGB24(0xffb734);
+  //constexpr static KDColor YellowDark = KDColor::RGB24(0xffb734); //og color (yellow)
+  constexpr static KDColor YellowDark = KDColor::RGB24(0xB400FF); //better color 
   constexpr static KDColor YellowLight = KDColor::RGB24(0xffcc7b);
   constexpr static KDColor PurpleBright = KDColor::RGB24(0x656975);
   constexpr static KDColor PurpleDark = KDColor::RGB24(0x414147);
