@@ -1,6 +1,7 @@
 Lambda (a fork of Epsilon)
 
 Dark Mode coming soon (i said that +5month ago but i promise it gonna come one day or another)
+
 for legal reason i cant share binaries but you can compile it yourself
 
 check [this for sdk installation ](https://github.com/UpsilonNumworks/Upsilon/tree/upsilon-dev?tab=readme-ov-file#2-set-up-repo)
