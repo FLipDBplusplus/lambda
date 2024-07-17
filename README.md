@@ -1,21 +1,13 @@
-<img src="docs/epsilon.svg?sanitize=true" alt="NumWorks Epsilon logo" height="70" >
+Lambda (a fork of Epsilon)
+Dark Mode coming soon (i said that +5month ago but i promise it gonna come one day or another)
+for legal reason i cant share binaries but you can compile it yourself
 
-[![Build Status](https://github.com/numworks/epsilon/workflows/Continuous%20integration/badge.svg)](https://github.com/numworks/epsilon/actions?workflow=Continuous+integration)
+check [this for sdk installation ](https://github.com/UpsilonNumworks/Upsilon/tree/upsilon-dev?tab=readme-ov-file#2-set-up-repo)
+and [this for flashing in calculator (userland)](https://ti-planet.github.io/webdfu_numworks/n0110/)
 
-Epsilon is a high-performance graphing calculator operating system. It includes eight apps that cover the high school mathematics curriculum.
+for building you should use these commands : `make clean`
+                                                                           `make userland.A.bin -j 8   (you can ajust the -j arg depending of your config and you can also replace userland.A.bin by userland.B.bin depending on which slot you want the os to install on)`
 
-You can try Epsilon straight from your browser in the [online simulator](https://www.numworks.com/simulator/).
 
-## Diving in
-
-We highly recommend you start by reading the [online documentation](https://www.numworks.com/resources/engineering/software/) for this project. You'll learn how to install the [SDK](https://www.numworks.com/resources/engineering/software/build/) and about the overall architecture of the Epsilon.
-
-## Contributing
-
-If you run into an issue, we would be very happy if you would file a bug on the [issue tracker](https://github.com/numworks/epsilon/issues).
-
-We welcome contributions. For smaller changes just open a pull request straight away. For larger changes we recommend you open an issue first for discussion.
-
-## Copyright
-
-All rights reserved. NumWorks is a registered trademark.
+btw ik my code is a total mess and probably completly buggy
+ [pics :](https://imgur.com/a/Hx7LwuO)
