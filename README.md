@@ -1,4 +1,5 @@
 Lambda (a fork of Epsilon)
+
 Dark Mode coming soon (i said that +5month ago but i promise it gonna come one day or another)
 for legal reason i cant share binaries but you can compile it yourself
 
