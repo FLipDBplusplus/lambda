@@ -1,3 +1,3 @@
 Apps = "Applications"
-AppsCapital = "lambda v0.5 Sholay!"
+AppsCapital = "lambda v0.5.1 Sholay!"
 ForbiddenAppInExamMode = "Cette application n'est\npas autorisée en mode examen."
