@@ -1,4 +1,4 @@
-Lambda (a fork of Epsilon with patchs (only graphical ones (for now)))
+Lambda (a fork of Epsilon with patches (only graphical ones (for now)))
 
 ~Dark Mode coming soon (i said that +5month ago but i promise it gonna come one day or another)~ -> ITS OUT !!!!! (v0.5)
 
