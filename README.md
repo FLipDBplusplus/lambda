@@ -14,4 +14,6 @@ for building you should use these commands : `make clean` `make userland.A.bin -
 
 
 btw ik my code is a total mess and probably completly buggy
- [pics :](https://imgur.com/a/Hx7LwuO)
+
+[pics1 (v0.4)](https://imgur.com/a/Hx7LwuO)
+[pics2 (v0.5.1)](https://imgur.com/tAQoaN3)
