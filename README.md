@@ -18,4 +18,3 @@ btw ik my code is a total mess and probably completly buggy
 [pics1 (v0.4)](https://imgur.com/a/Hx7LwuO)
 [pics2 (v0.5.1)](https://imgur.com/tAQoaN3)
 
-DONATE (BTC) -> bc1qe3vtmqfc2gg2ukw9zca69zphk3guwusdpzhjeq  (only do this if you have money to throw away) 
