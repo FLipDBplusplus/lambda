@@ -4,7 +4,7 @@ Lambda (a fork of Epsilon with patches (only graphical ones (for now)))
 
 for legal reason i cant share binaries but you can compile it yourself
 
-check [this for sdk installation ](https://github.com/UpsilonNumworks/Upsilon/tree/upsilon-dev?tab=readme-ov-file#2-set-up-repo)
+check [this for sdk installation ](https://github.com/UpsilonNumworks/Upsilon/tree/upsilon-dev?tab=readme-ov-file#1-install-sdk)
 and [this for flashing in calculator (userland)](https://ti-planet.github.io/webdfu_numworks/n0110/)
 
 for building you should use these commands : `make clean` `make userland.A.bin -j8`
